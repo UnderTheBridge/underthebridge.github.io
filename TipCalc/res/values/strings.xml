@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="price">Enter a price</string>
+    <string name="button">Process Tip</string>
+    <string name="tip">Tip:</string>
+
+</resources>
